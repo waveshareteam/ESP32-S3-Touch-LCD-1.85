@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://www.waveshare.com/esp32-s3-touch-lcd-1.85.htm?sku=28514">🛒 Product</a> &middot;
-    <a href="https://github.com/waveshareteam/ESP32-S3-Touch-LCD-1.85/releases/latest">📦 Firmware</a> &middot;
+    <a href="firmware/">📦 Firmware</a> &middot;
     <a href="examples/esp-idf/">🧩 ESP-IDF</a> &middot;
     <a href="https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.85">📖 Documentation</a>
   </p>
@@ -31,6 +31,8 @@ The ESP32-S3-Touch-LCD-1.85 (SKU 28514) is a round-screen ESP32-S3 board with ca
 | Audio and storage | Microphone, PCM5101 audio output, microSD slot |
 
 ## 📦 Quick Start
+
+See [`firmware/`](firmware/) for the bundled test firmware and flashing instructions.
 
 1. Connect the board to your computer with a USB data cable.
 2. Follow the [ESP-IDF example instructions](examples/esp-idf/ESP32-S3-Touch-LCD-1.85-Test/) to build and flash the project.

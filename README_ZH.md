@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://www.waveshare.com/esp32-s3-touch-lcd-1.85.htm?sku=28514">🛒 产品</a> &middot;
-    <a href="https://github.com/waveshareteam/ESP32-S3-Touch-LCD-1.85/releases/latest">📦 固件</a> &middot;
+    <a href="firmware/">📦 固件</a> &middot;
     <a href="examples/esp-idf/">🧩 ESP-IDF</a> &middot;
     <a href="https://docs.waveshare.net/ESP32-S3-Touch-LCD-1.85/">📖 文档</a>
   </p>
@@ -31,6 +31,8 @@ ESP32-S3-Touch-LCD-1.85（SKU 28514）是带圆形电容触摸屏的 ESP32-S3 �
 | 音频与存储 | 麦克风、PCM5101 音频输出、microSD 卡槽 |
 
 ## 📦 快速开始
+
+下载板载功能测试固件及查看烧录步骤，请前往 [`firmware/`](firmware/)。
 
 1. 用 USB 数据线连接开发板与电脑。
 2. 按 [ESP-IDF 示例说明](examples/esp-idf/ESP32-S3-Touch-LCD-1.85-Test/README_ZH.md)编译并烧录。
